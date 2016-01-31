@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('hello from Subramaniam Swamynathan');
+    return 'hello from Subramaniam Swamynathan';
 });
 
 /*
